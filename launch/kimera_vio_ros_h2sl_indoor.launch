@@ -1,6 +1,6 @@
 <launch>
   <arg name="robot_name" default="husky10"/>
-  <arg name="dataset_name"      default="Euroc"/>
+  <arg name="dataset_name"      default="uHumans2"/>
   <arg name="verbosity"         default="0"/>
   <arg name="online"            default="true"/>
   <arg name="use_lcd"           default="false"/>
